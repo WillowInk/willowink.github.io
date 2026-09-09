@@ -1,0 +1,42 @@
+body {
+  font-family: system-ui;
+  background: #1c1206;
+  color: white;
+}
+
+h1 {
+  color:#1A1410;
+}
+
+p {
+  color: #1A1410;
+}
+
+
+.layout {
+  display: flex;
+  gap: 30px;
+  width: 100vw;
+  min-height: 100vh;
+}
+
+.sidebar {
+  background-color: #3a2f24;
+  color: white;
+  width: 250px;
+  flex-shrink: 0;
+  margin-bottom: 70px;
+}
+
+.content {
+  background-color: #d9caa9;
+  flex-grow: 1;
+  margin-top: 100px;
+  margin-right: 50px;
+  margin-bottom: 70px;
+}
+
+nav a {
+  display:block;
+  padding: 15px;
+}
