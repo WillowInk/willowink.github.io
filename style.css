@@ -33,10 +33,10 @@ p {
 }
 
 .content {
-  border: 26px solid transparent;
+  border: 8px solid transparent;
   border-image-source: url('images/parchment.PNG');
   border-image-slice: 26 fill;
-  border-image-width: 26px;
+  border-image-width: 8px;
   border-image-repeat: stretch;
   flex-grow: 1;
   margin-top: 130px;
