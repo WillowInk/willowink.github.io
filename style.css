@@ -21,7 +21,7 @@ p {
 }
 
 .sidebar {
-  border: 60px solid transparent;
+  border: 20px solid transparent;
   border-image-source: url('images/sidebar.PNG');
   border-image-slice: 60 fill;
   border-image-width: 20px;
@@ -33,7 +33,7 @@ p {
 }
 
 .content {
-  border: 60px solid transparent;
+  border: 8px solid transparent;
   border-image-source: url('images/parchment.PNG');
   border-image-slice: 8 fill;
   border-image-width: 8px;
