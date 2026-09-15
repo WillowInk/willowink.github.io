@@ -30,7 +30,8 @@ p {
 }
 
 .content {
-  background-color: #d9caa9;
+  background-image: url('images/parchment.PNG');
+  background-size: 100% 100%;
   flex-grow: 1;
   margin-top: 100px;
   margin-right: 50px;
