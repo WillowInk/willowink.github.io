@@ -21,7 +21,8 @@ p {
 }
 
 .sidebar {
-  background-color: #3a2f24;
+  background-image: url('images/sidebar.PNG');
+  background-size: 100% 100%;
   color: white;
   width: 250px;
   flex-shrink: 0;
