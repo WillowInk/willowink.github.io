@@ -54,6 +54,15 @@ nav a {
   text-decoration: none;
 }
 
+nav a:hover {
+  border: 12px solid transparent;
+  border-image-source: url('images/navbox.PNG');
+  border-image-slice: 12 fill;
+  border-image-width: 12px;
+  border-image-repeat: stretch;
+  color: #e8dcc0;
+}
+
 .content img {
   max-width: 100%;
   height: auto;
