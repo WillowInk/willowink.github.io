@@ -55,7 +55,7 @@ nav a {
 }
 
 nav a:hover {
-  backgroung-image: url('images/navbox.PNG');
+  background-image: url('images/navbox.PNG');
   background-size: 100% 100%;
   background repeat: no-repeat;
   color: #e8dcc0;
