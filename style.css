@@ -68,6 +68,14 @@ nav a.current {
   color: #e8dcc0;
 }
 
+nav a img {
+  width: 32px;
+  height: 32px;
+  vertical-align: middle;
+  margin-right: 8px
+  image-rendering: pixelated;
+}
+
 
 .content img {
   max-width: 100%;
