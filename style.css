@@ -55,10 +55,10 @@ nav a {
 }
 
 nav a:hover {
-  border: 12px solid transparent;
+  border: 10px solid transparent;
   border-image-source: url('images/navbox.PNG');
-  border-image-slice: 12 fill;
-  border-image-width: 12px;
+  border-image-slice: 10 fill;
+  border-image-width: 810px;
   border-image-repeat: stretch;
   color: #e8dcc0;
 }
