@@ -6,12 +6,14 @@ body {
 }
 
 h1 {
+  font-family: 'Tangerine', serif;
+  font-size: 42px;
   color:#1A1410;
   text-align: center;
 }
 
 h2 {
-  color:#260402;
+  color:#462410;
   text-align: center;
 }
 
