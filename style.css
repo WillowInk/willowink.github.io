@@ -103,4 +103,5 @@ nav a img {
   height: auto;
   display: block;
   margin: 10px auto;
+  image-rendering: pixelated;
 }
