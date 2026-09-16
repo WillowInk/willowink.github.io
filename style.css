@@ -107,10 +107,10 @@ nav a img {
 }
 
 .studio-desk {
-  border: 12px solid transparent;
+  border: 9px solid transparent;
   border-image-source: url('images/small-parchment.png');
-  border-image-slice: 12 fill;
-  border-image-width: 12px
+  border-image-slice: 9 fill;
+  border-image-width: 9px
   border-image-repeat: stretch;
   image-rendering: pixelated;
   color: #1A1410;
