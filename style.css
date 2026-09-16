@@ -144,6 +144,7 @@ nav a img {
 
 .welcome-text {
   flex: 1;
+  text-align: left;
 }
 
 .welcome-salix {
