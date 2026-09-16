@@ -97,3 +97,10 @@ nav a img {
   display: block;
   margin: 0 auto;
 }
+
+.divider {
+  width: 90%;
+  height: auto;
+  display: block;
+  margin: 10px auto;
+}
