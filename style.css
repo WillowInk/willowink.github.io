@@ -30,6 +30,9 @@ p {
   width: 250px;
   flex-shrink: 0;
   margin-bottom: 70px;
+  position: sticky;
+  top: 0;
+  align-self: flex-start;
 }
 
 .content {
