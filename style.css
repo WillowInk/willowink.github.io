@@ -122,15 +122,15 @@ nav a img {
 
 .content-bar {
   display: block;
-  width: 30%;
+  width: 10%;
   height: auto;
   image-rendering: pixelated;
 }
 
 .content-divider {
   display: block;
-  width: 100%;
+  width: auto;
   height: auto;
-  margin: 15px auto;
+  margin: 15px -50px;
   image-rendering: pixelated;
 }
