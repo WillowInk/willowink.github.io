@@ -50,6 +50,8 @@ p {
 nav a {
   display:block;
   padding: 15px;
+  color: #e8dcc0;
+  text-decoration: none;
 }
 
 .content img {
