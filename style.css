@@ -105,3 +105,17 @@ nav a img {
   margin: 10px auto;
   image-rendering: pixelated;
 }
+
+.studio-desk {
+  border: 6px solid transparent;
+  border-image-source: url('images/small-parchment.png');
+  border-image-slice: 6 fill;
+  border-image-width: 6px
+  border-image-repeat: stretch;
+  image-rendering: pixelated;
+  color: #1A1410;
+  padding: 15px;
+  margin: 15px;
+  font-size: 15px
+}
+  
