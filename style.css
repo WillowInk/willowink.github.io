@@ -57,14 +57,14 @@ nav a {
 nav a:hover {
   background-image: url('images/navbox.PNG');
   background-size: 100% 100%;
-  background repeat: no-repeat;
+  background-repeat: no-repeat;
   color: #e8dcc0;
 }
 
-nav a:current {
+nav a.current {
   background-image: url('images/navbox.PNG');
   background-size: 100% 100%;
-  background repeat: no-repeat;
+  background-repeat: no-repeat;
   color: #e8dcc0;
 }
 
