@@ -137,7 +137,7 @@ nav a img {
 }
 
 .welcome {
-  display: felx;
+  display: flex;
   align-items: center;
   gap: 30px;
 }
