@@ -135,3 +135,19 @@ nav a img {
   margin: 15px -50px;
   image-rendering: pixelated;
 }
+
+.welcome {
+  display: felx;
+  align-items: center;
+  gap: 30px;
+}
+
+.welcome-text {
+  flex: 1;
+}
+
+.welcome-salix {
+  width: 300px;
+  height: auto;
+  flex-shrink: 0;
+}
