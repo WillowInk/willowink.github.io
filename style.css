@@ -150,6 +150,8 @@ nav a img {
 
 .welcome-salix {
   width: 450px;
+  max-width: 450px
   height: auto;
   flex-shrink: 0;
+  margin: 0;
 }
