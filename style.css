@@ -149,9 +149,14 @@ nav a img {
 }
 
 .welcome-salix {
-  width: 450px;
-  max-width: 450px
+  width: 550px;
+  max-width: 550px
   height: auto;
   flex-shrink: 0;
   margin: 0;
+}
+
+.welcome-text h1,
+.welcome-text h2 {
+  text-align: left;
 }
