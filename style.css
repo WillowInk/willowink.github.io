@@ -131,9 +131,9 @@ nav a img {
 
 .content-divider {
   display: block;
-  width: calc(100% + 100px);
+  width: calc(100% + 180px);
   height: auto;
-  margin: 15px -50px;
+  margin: 15px -90px;
   image-rendering: pixelated;
 }
 
