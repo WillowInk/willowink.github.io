@@ -161,3 +161,11 @@ img.content-divider {
 .welcome-text h2 {
   text-align: left;
 }
+
+.construction-gif {
+  display: block;
+  width: 300px;
+  max-width: 300px;
+  height: auto;
+  margin: 0auto;
+}
