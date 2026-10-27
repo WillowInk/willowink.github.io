@@ -6,7 +6,7 @@ let availableDevlogs = ["2026-9", "2026-10"];
 
 function updateDisplay() {
   document.getElementById("display").textContent = months [month - 1];
-  document.getElementById("yeardisplay").textContent = year;
+  document.getElementById("calendarimg").src = "images/calendar-" + month + ".gif";
   let current = year + "-" + month;
   if (availableDevlogs.includes(current)){
     document.getElementById("travel").disabled = false;
