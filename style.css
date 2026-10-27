@@ -194,6 +194,15 @@ img.content-divider {
   gap: 15px;
   justify-content: center;
 }
+
+#calendarimg {
+  width: 400px;
+  max-width:none;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+}
+
 .image-row-image {
   max-width: 45%;
   height: auto;
