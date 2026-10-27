@@ -40,9 +40,3 @@ document.getElementById("travel").addEventListener("click",function() {
 });
 
 updateDisplay();
-
-updateDisplay();
-
-<script src="calender.js"></script>
-
-  </body>
