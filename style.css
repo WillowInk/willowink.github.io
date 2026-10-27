@@ -169,3 +169,21 @@ img.content-divider {
   height: auto;
   margin: 0auto;
 }
+
+.calander {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.calander-year {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 15px;
+}
+
+.calander #display {
+  display: block;
+  font-size: 24px;
+  margin: 10px 0;
+}
