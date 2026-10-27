@@ -170,19 +170,19 @@ img.content-divider {
   margin: 0auto;
 }
 
-.calander {
+.calender {
   text-align: center;
   margin-bottom: 20px;
 }
 
-.calander-year {
+.calender-year {
   display: flex;
   justify-content: center;
   align-items: center;
   gap: 15px;
 }
 
-.calander #display {
+.calender #display {
   display: block;
   font-size: 24px;
   margin: 10px 0;
