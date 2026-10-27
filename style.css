@@ -180,6 +180,8 @@ img.content-divider {
   justify-content: center;
   align-items: center;
   gap: 15px;
+  font-size: 28px;
+  Color: 301000;
 }
 
 .calender #display {
