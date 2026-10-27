@@ -181,7 +181,7 @@ img.content-divider {
   align-items: center;
   gap: 15px;
   font-size: 28px;
-  Color: 301000;
+  color: 301000;
 }
 
 .calender #display {
@@ -198,7 +198,7 @@ img.content-divider {
 }
 
 #calendarimg {
-  width: 150px;
+  width: 250px;
   max-width:none;
   height: auto;
   display: block;
