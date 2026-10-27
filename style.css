@@ -209,3 +209,10 @@ img.content-divider {
   max-width: 45%;
   height: auto;
 }
+
+.devlog-img {
+  max-width: 200px;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+}
