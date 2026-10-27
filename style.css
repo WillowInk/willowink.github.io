@@ -210,7 +210,7 @@ img.content-divider {
   height: auto;
 }
 
-.devlog-img {
+.content img.devlog-img {
   max-width: 250px;
   height: auto;
   display: block;
